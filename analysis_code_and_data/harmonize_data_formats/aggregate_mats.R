@@ -14,5 +14,5 @@ potter_df = potter_files %>%
 
 
 write.csv(decker_df, file = 'data/decker/combined_decker_data.csv', row.names = FALSE)
-write.csv(potter_df, file = 'data/decker/combined_potter_data.csv', row.names = FALSE)
+write.csv(potter_df, file = 'data/potter/combined_potter_data.csv', row.names = FALSE)
 
